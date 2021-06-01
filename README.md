@@ -35,15 +35,15 @@ Current Customer's Goals:
 2. As a current customer, I want to discover new offers and changes at my gym.
 3. As a current customer, I want information on exercise classes.
 
-## Website Strategy
-To develop this website and address the interests of the sample buyer personas mentioned above, the developer spoke with varying individuals. This was so the developer could guage the functions and features that real-life customers would look for in a gym website. That information would inform the developer on how best to target the new/potential customers and current customers.
+## Website Development Considerations
+To develop this website and address the interests of the sample buyer personas mentioned above, the developer spoke with various individuals. This was so the developer could gauge the functions and features that real-life customers would look for in a gym website. That information would inform the developer on how best to target the new/potential customers and current customers for "TightCore Gym".
 
 ### Strategy
 This website is made for three key overarching segments.
 
 1. Customer Type:
   1. Current gym customers
-  2. New gym customers
+  2. New/Potential gym customers
 
 2. Demographic:
   1. Age range: Under-55
@@ -55,7 +55,7 @@ This website is made for three key overarching segments.
     * Health & lifestyle
     * Exercise
     * Sports
-    * Bodybuilding
+    * Bodybuilding or body composition
     * Weight loss
 
   2. Lifestyle:
@@ -63,8 +63,14 @@ This website is made for three key overarching segments.
     * Outgoing
     * Social
     * Sedentary
+
   3. Values:
     * Health
     * Healthy food
     * Exercise
     * Routine
+    * Fitness
+    * Beauty
+
+### Scope of Website
+
