@@ -38,7 +38,7 @@ Current Customer's Goals:
 ## Website Development Considerations
 To develop this website and address the interests of the sample buyer personas mentioned above, the developer spoke with various individuals. This was so the developer could gauge the functions and features that real-life customers would look for in a gym website. That information would inform the developer on how best to target the new/potential customers and current customers for "TightCore Gym".
 
-### Strategy
+### Strategy of website
 This website is made for three key overarching segments.
 
 1. Customer Type:
@@ -91,4 +91,24 @@ Considering the outline of this strategy and the goals mentioned above, the deve
 
 ![strategytable](/assets/readme-files/strategy-table.png)
 
-### Scope of Website
+### Scope of website
+
+A website scope was determined in order to deliver on the goals targeted in the website's strategy. The idea was to align the website's features with the intended purposes of the website. The features of the website fall into two categories, namely content and functionality.
+
+#### Content requirements:
+A user visiting the TightCore Gym website will look for:
+* Information on gym facilities - equipment, pool, steam room, etc.
+* Services offered - exercise classes, instructors, nutrition advice
+* Contact and location details
+* Transparency: information about the gym and its staff
+* Social links
+* Deals and promotions
+
+#### Functionality requirements:
+A user visiting the TightCore Gym website will be able to:
+* Navigate the website effortlessly
+* Browse the website on different platforms
+* Find information about the services offered
+* Contact the gym directly from the website
+* Be able to find external social proofs by visiting social media links
+
