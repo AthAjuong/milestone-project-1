@@ -2,8 +2,30 @@
 ## Code Institute: Milestone Project 1
 
 
-TightCore Gym is a fictional gym that offers guidance to clients wanting to improve their body composition. This project idea was offered by Code Institute as part of their softare development program. As a person with keen interests in sports, health, and lifestyle, I thought it would be interesting to create a project reflecting a business that helps people stay active and healthy. 
+TightCore Gym is a fictional gym that offers guidance to clients wanting to improve their health, fitness, or body composition. This project idea was offered by Code Institute as part of their softare development program. As a person with keen interests in sports, health, and lifestyle, I thought it would be interesting to create a project reflecting a business that helps people stay active and healthy. 
 
 This was the first of the milestone projects that make up Code Institute's Full-Stack Software Development Course as of Feb. 2021.
 This static website is required to be responsive and comprises of pages developed with HTML5 and CSS3.
 
+## UX
+
+### Site Owner's Goal:
+This website aims to attract customers that will avail of the gym's equipment, classes, instructors, and nutritionists. The owner aims to encourage customers of all shapes and sizes to reach their own health and fitness targets.
+
+### Target demographics:
+The target demographics of this website will include:
+
+*Gym experts and body builders
+*Competitive fitness enthusiasts
+*Casual fitness enthusiasts
+*Regular gym customers
+*Social customers
+
+### Buyer Personas
+
+New/Potential Customer Goal:
+1. I want to navigate the website easily and find relevant information without an excessive time investment.
+2. I want to learn about the facilities and available exercise classes.
+3. I want to learn what resources are available to help me on my fitness journey.
+4. I want to easily find the location of the gym.
+5. I want to find social proof as to the quality of the gym.
