@@ -42,12 +42,6 @@ To develop this website and address the interests of the sample buyer personas m
 This website is made for three key overarching segments.
 
 1. Customer Type:
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-
-1. Customer Type:
    1. Current gym customers 1a
    2. New/Potential gym customers 1b
 
@@ -58,25 +52,25 @@ This website is made for three key overarching segments.
 
 3. Psychographic:
    1. Interests:
-    * Health & lifestyle
-    * Exercise
-    * Sports
-    * Bodybuilding or body composition
-    * Weight loss
+      * Health & lifestyle
+      * Exercise
+      * Sports
+      * Bodybuilding or body composition
+      * Weight loss
 
    2. Lifestyle:
-    * Active 
-    * Outgoing
-    * Social
-    * Sedentary
+      * Active 
+      * Outgoing
+      * Social
+      * Sedentary
 
    3. Values:
-    * Health
-    * Healthy food
-    * Exercise
-    * Routine
-    * Fitness
-    * Beauty
+      * Health
+      * Healthy food
+      * Exercise
+      * Routine
+      * Fitness
+      * Beauty
 
 ### Scope of Website
 
