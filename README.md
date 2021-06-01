@@ -15,11 +15,11 @@ This website aims to attract customers that will avail of the gym's equipment, c
 ### Ideal demographics:
 The target demographics of this website will include:
 
-*Gym experts and body builders
-*Competitive fitness enthusiasts
-*Casual fitness enthusiasts
-*Regular gym customers
-*Social customers
+* Gym experts and body builders
+* Competitive fitness enthusiasts
+* Casual fitness enthusiasts
+* Regular gym customers
+* Social customers
 
 ### User Stories/Buyer Personas
 
@@ -117,3 +117,5 @@ The information hierarchy of this website was outlined with considerations taken
 
 ![website-sitemap](assets/readme-files/sitemap.png)
 
+### Skeleton of website
+The developer created wireframe mockups in a Figma Workspace. The intention was to design a sample website that kept user experience in mind while reflecting the strategy, scope, and structure of the website.
