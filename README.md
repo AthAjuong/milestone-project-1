@@ -89,7 +89,7 @@ This website needs to enable customers to:
 
 Considering the outline of this strategy and the goals mentioned above, the developer created a strategy table to determine the importance and viability of the outlined website goals.
 
-![strategytable](/assets/readme-files/strategy-table.png)
+![strategy-table](/assets/readme-files/strategy-table.png)
 
 ### Scope of website
 
@@ -113,3 +113,7 @@ A user visiting the TightCore Gym website will be able to:
 * Be able to find external social proofs by visiting social media links
 
 ### Structure of website
+The information hierarchy of this website was outlined with considerations taken from the strategy and scope of the site. A sample sitemap was created in Adobe Photoshop and will be used to inform the content and functionality requirements of the website.
+
+![website-sitemap](assets/readme-files/sitemap.png)
+
