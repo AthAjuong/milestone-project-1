@@ -23,9 +23,14 @@ The target demographics of this website will include:
 
 ### Buyer Personas
 
-New/Potential Customer Goal:
+New/Potential Customer's Goal:
 1. I want to navigate the website easily and find relevant information without an excessive time investment.
 2. I want to learn about the facilities and available exercise classes.
 3. I want to learn what resources are available to help me on my fitness journey.
-4. I want to easily find the location of the gym.
+4. I want to easily find information about the gym - its location and its training teams.
 5. I want to find social proof as to the quality of the gym.
+
+Current Customer's Goals:
+1. As a current customer, I want to easily navigate the website to find relevant information.
+2. As a current customer, I want to discover new offers and changes at my gym.
+3. As a current customer, I want information on exercise classes.
