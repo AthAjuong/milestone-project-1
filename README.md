@@ -42,8 +42,8 @@ To develop this website and address the interests of the sample buyer personas m
 This website is made for three key overarching segments.
 
 1. Customer Type:
-  1. Current gym customers
-  2. New/Potential gym customers
+  1. Current gym customers 1a
+  2. New/Potential gym customers 1b
 
 2. Demographic:
   1. Age range: Under-55
