@@ -42,8 +42,8 @@ To develop this website and address the interests of the sample buyer personas m
 This website is made for three key overarching segments.
 
 1. Customer Type:
-   1. Current gym customers 1a
-   2. New/Potential gym customers 1b
+   1. Current gym customers
+   2. New/Potential gym customers
 
 2. Demographic:
    1. Age range: Under-55
@@ -72,5 +72,24 @@ This website is made for three key overarching segments.
       * Fitness
       * Beauty
 
-### Scope of Website
+This website needs to enable TightCore Gym to:
 
+* Develop an online presence
+* Offer a digital space for customers to acquire information about:
+   * the gym
+   * gym/exercise classes
+   * services on offer
+* Provide a communication channel for customers to contact the gym
+
+This website needs to enable customers to:
+* Find information about the gym
+* Find information about the gym's services
+* Contact the gym
+* Find the gym on their platform of choice - phone, tablet, social media channels, etc.
+
+Considering the outline of this strategy and the goals mentioned above, the developer created a strategy table to determine the importance and viability of the outlined website goals.
+
+![strategytable](/assets/readme-files/strategy-table.png)
+Format: ![A strategy table highlighting trade-offs between importance and viability of goals](assets/readme-files/strategy-table.png)
+
+### Scope of Website
