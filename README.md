@@ -90,6 +90,5 @@ This website needs to enable customers to:
 Considering the outline of this strategy and the goals mentioned above, the developer created a strategy table to determine the importance and viability of the outlined website goals.
 
 ![strategytable](/assets/readme-files/strategy-table.png)
-Format: ![A strategy table highlighting trade-offs between importance and viability of goals](assets/readme-files/strategy-table.png)
 
 ### Scope of Website
