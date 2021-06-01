@@ -12,7 +12,7 @@ This static website is required to be responsive and comprises of pages develope
 ### Site Owner's Goal:
 This website aims to attract customers that will avail of the gym's equipment, classes, instructors, and nutritionists. The owner aims to encourage customers of all shapes and sizes to reach their own health and fitness targets.
 
-### Target demographics:
+### Ideal demographics:
 The target demographics of this website will include:
 
 *Gym experts and body builders
@@ -21,7 +21,7 @@ The target demographics of this website will include:
 *Regular gym customers
 *Social customers
 
-### Buyer Personas
+### User Stories/Buyer Personas
 
 New/Potential Customer's Goal:
 1. I want to navigate the website easily and find relevant information without an excessive time investment.
@@ -34,3 +34,8 @@ Current Customer's Goals:
 1. As a current customer, I want to easily navigate the website to find relevant information.
 2. As a current customer, I want to discover new offers and changes at my gym.
 3. As a current customer, I want information on exercise classes.
+
+## Website Strategy
+To develop this website and address the interests of the sample buyer personas mentioned above, the developer spoke with varying individuals. This was so the developer could guage the functions and features that real-life customers would look for in a gym website. That information would inform the developer on how best to target the new/potential customers and current customers.
+
+
