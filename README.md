@@ -38,4 +38,33 @@ Current Customer's Goals:
 ## Website Strategy
 To develop this website and address the interests of the sample buyer personas mentioned above, the developer spoke with varying individuals. This was so the developer could guage the functions and features that real-life customers would look for in a gym website. That information would inform the developer on how best to target the new/potential customers and current customers.
 
+### Strategy
+This website is made for three key overarching segments.
 
+1. Customer Type:
+  1. Current gym customers
+  2. New gym customers
+
+2. Demographic:
+  1. Age range: Under-55
+  2. Male customers
+  3. Female customers
+
+3. Psychographic:
+  1. Interests:
+    * Health & lifestyle
+    * Exercise
+    * Sports
+    * Bodybuilding
+    * Weight loss
+
+  2. Lifestyle:
+    * Active 
+    * Outgoing
+    * Social
+    * Sedentary
+  3. Values:
+    * Health
+    * Healthy food
+    * Exercise
+    * Routine
