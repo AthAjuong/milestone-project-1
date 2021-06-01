@@ -112,3 +112,4 @@ A user visiting the TightCore Gym website will be able to:
 * Contact the gym directly from the website
 * Be able to find external social proofs by visiting social media links
 
+### Structure of website
