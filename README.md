@@ -126,3 +126,5 @@ Home page:
 About us page:
 ![about-wireframe](assets/readme-files/about-tightcore-gym.png)
 
+Classes page:
+![classes-wireframe](assets/readme-files/classes-tightcore-gym.png)
