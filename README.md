@@ -131,3 +131,6 @@ Classes page:
 
 Gym page:
 ![gym-wireframe](assets/readme-files/gym-tightcore-gym.png)
+
+Contact page:
+![contact-wireframe](assets/readme-files/contact-tightcore-gym.png)
