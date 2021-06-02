@@ -123,6 +123,6 @@ The developer created wireframe mockups in a Figma Workspace. The intention was 
 Home page:
 ![index-wireframe](assets/readme-files/index-tightcore-gym.png)
 
-About Us
+About us page:
 ![about-wireframe](assets/readme-files/about-tightcore-gym.png)
 
