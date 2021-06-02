@@ -118,7 +118,7 @@ The information hierarchy of this website was outlined with considerations taken
 ![website-sitemap](assets/readme-files/sitemap.png)
 
 ### Skeleton of website
-The developer created wireframe mockups in a Figma Workspace. The intention was to design a sample website that kept user experience in mind while reflecting the strategy, scope, and structure of the website.
+The developer created wireframe mockups in a ![figma-workspace-for-TightCore-website](https://www.figma.com/file/tWD50wf2MlbyRV5sjfmvcS/Untitled?node-id=0%3A1) Figma Workspace. The intention was to design a sample website that kept user experience in mind while reflecting the strategy, scope, and structure of the website.
 
 Home page:
 ![index-wireframe](assets/readme-files/index-tightcore-gym.png)
