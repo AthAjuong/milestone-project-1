@@ -128,3 +128,6 @@ About us page:
 
 Classes page:
 ![classes-wireframe](assets/readme-files/classes-tightcore-gym.png)
+
+Gym page:
+![gym-wireframe](assets/readme-files/gym-tightcore-gym.png)
