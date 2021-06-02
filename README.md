@@ -119,3 +119,4 @@ The information hierarchy of this website was outlined with considerations taken
 
 ### Skeleton of website
 The developer created wireframe mockups in a Figma Workspace. The intention was to design a sample website that kept user experience in mind while reflecting the strategy, scope, and structure of the website.
+
