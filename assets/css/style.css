@@ -140,5 +140,5 @@ position: inherit;
 #trustpilot-stars {
     height: 40px;
     width: 40px;
-    background-image: url(assets/images/Trustpilot.png) no-repeat center center;
+    background-image: url(/assets/images/Trustpilot.png) no-repeat center center;
 }
