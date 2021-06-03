@@ -96,7 +96,7 @@ position: inherit;
     width: 800px;
     height: 800px;
     margin: auto;
-    background-color: #a4a7a9;
+    background-color: rgba(164,167,169,0.5);
 }
 
 #cover-text h1,h3 {
