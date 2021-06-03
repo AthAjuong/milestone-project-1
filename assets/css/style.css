@@ -92,11 +92,15 @@ position: inherit;
     z-index: 10;
 }
 
-
-
 #cover-text{
     width: 800px;
     height: 800px;
     margin: auto;
-    background-color: #f9f9f9;
+    background-color: #a4a7a9;
+}
+
+#cover-text h1,h3 {
+    color: #FFFFFF;
+    font-weight: bold;
+    margin: auto;
 }
