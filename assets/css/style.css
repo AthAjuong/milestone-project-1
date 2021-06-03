@@ -6,6 +6,7 @@ html, body {
     background-color:#FFFFFF;
 }
 
+
 /* ----- header ----- */
 
 .navbar {
@@ -18,35 +19,8 @@ html, body {
 
 }
 
-.navbar-links ul {
-    margin: 0;
-    padding: 0;
-    display: flex; 
-}
-
-.navbar-links li {
-    list-style-type: none;
-}
-
-.navbar-links li a {
-    text-decoration: none;
-    color: #a4a7a9;
-    padding: 1rem;
-    display: block;
-    
-}
-
-
 .navbar-toggler {
-    position: absolute;
-    top: 0.7rem;
-    right: 1rem;
-    flex-direction: column;
-    display: none;
-    width: 35px;
-    height: 35px;
-    border: 0;
-    
+    background-image: url(/assets/images/hamburger.svg);
 }
 
 .logo-style {
@@ -87,16 +61,15 @@ position: inherit;
 #overlay {
     width: 100%;
     height: 100%;
-    position:relative;
     background-color: rgba(0, 0, 0, 0.4);
-    z-index: 10;
+    position:relative;
 }
 
 #cover-text{
     width: 800px;
-    height: 320px;
+    height: 380px;
     padding: 20px;
-    background-color: rgba(164,167,169,0.7);
+    background-color: rgba(0,0,0,0.6);
 
     position: absolute;
     left: 0;
@@ -108,8 +81,17 @@ position: inherit;
 
 #cover-text  {
     color: #FFFFFF;
+    
     text-align: center;
     padding-bottom: 16px;
+}
+
+#cover-text h1 {
+    font-size: 5rem;
+    font-weight: bold;
+}
+#cover-text h3 {
+    font-size: 2rem;
 }
 
 #cover-text h1,h3, .home-buttons, .review-stars{
@@ -140,6 +122,39 @@ position: inherit;
 #trustpilot-stars {
     height: 40px;
     width: 40px;
-    background-image: url(/assets/images/Trustpilot.png);
     display: inline-block;
+    background-image: url(/assets/images/Trustpilot.png);    
+}
+
+/* services and features section */
+.services {
+    margin:auto;
+    padding: 1.6rem 0;
+    color: #555555;
+}
+
+.services h3 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+    
+.service-content {
+    font-size: 2rem;
+    margin: 15px 0px;
+}
+
+.service-content i {
+    font-size: 3rem;
+}
+.service-content a {
+    text-decoration: none;
+    color: #76C61A;
+}
+
+.service-content a:hover {
+    color: #28a745;
+}
+
+.facilities {
+    background-image: url();
 }
