@@ -94,7 +94,7 @@ position: inherit;
 
 #cover-text{
     width: 800px;
-    height: 300px;
+    height: 320px;
     padding: 20px;
     background-color: rgba(164,167,169,0.7);
 
@@ -112,8 +112,7 @@ position: inherit;
     padding-bottom: 16px;
 }
 
-#cover-text h1,h3{
-    font-weight: bold;
+#cover-text h1,h3, .home-buttons, .review-stars{
     margin-bottom: 1.6rem;
     
 }
@@ -132,13 +131,15 @@ position: inherit;
 
 .review-stars {
     width: 320px;
-    height: 80px;
+    height: 40px;
     left: 0;
+    margin-top: 16px;
     margin: auto;
 }
 
 #trustpilot-stars {
     height: 40px;
     width: 40px;
-    background-image: url(/assets/images/Trustpilot.png) no-repeat center center;
+    background-image: url(/assets/images/Trustpilot.png);
+    display: inline-block;
 }
