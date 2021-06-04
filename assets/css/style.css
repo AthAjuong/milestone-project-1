@@ -476,6 +476,11 @@ footer a:hover {
         padding: 0;
         position: relative;
     }
+
+    #video {
+        width: 90%;
+        height: 300px;
+    }
 }
 
 @media screen and (max-width: 576px) {
@@ -492,6 +497,11 @@ footer a:hover {
         height: 850px;
         padding: 0;
         position: relative;
+    }
+
+    #video {
+        width: 80%;
+        height: 500px;
     }
 }
 
