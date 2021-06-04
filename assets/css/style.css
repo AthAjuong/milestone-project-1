@@ -207,6 +207,7 @@ footer {
 .staff-pics {
     width: 150px;
     height: 225px;
+    margin: auto;
     margin-bottom: 16px;
 }
 
