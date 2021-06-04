@@ -254,7 +254,7 @@ footer {
     position: relative;
 }
 
-#trustpilot-stars {
+.trustpilot-stars {
     height: 40px;
     width: 40px;
     display: inline-block;
