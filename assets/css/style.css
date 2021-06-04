@@ -503,6 +503,10 @@ footer a:hover {
         width: 80%;
         height: 500px;
     }
+
+    #facilities {
+        padding: 120px 30px; 
+    }
 }
 
 @media screen and (max-width: 768px) {
