@@ -178,6 +178,7 @@ footer {
 #hero-gym-panel {
     width: 100%;
     height: 600px;
+    padding: 0;
 }
 
 #gym-half-width {
