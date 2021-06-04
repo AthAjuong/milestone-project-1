@@ -288,6 +288,10 @@ footer {
     margin-bottom: 16px;
 }
 
+.general-content>p>ul {
+    padding: 0px 10px;
+}
+
 .general-content i {
     font-size: 3rem;
 }
