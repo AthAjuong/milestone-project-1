@@ -505,11 +505,6 @@ footer a:hover {
     }
 }
 
-@media screen and (max-width: 650px) {
-
-}
-
-
 @media screen and (max-width: 768px) {
     #hero {
         width: 100%;
@@ -562,6 +557,10 @@ footer a:hover {
         width: 100%;
         height: 100%;
         padding: 70px 60px;
+    }
+
+    #video {
+        height: 80%;
     }
 
     #footer > .general-content {
