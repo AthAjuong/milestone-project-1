@@ -3,6 +3,7 @@ html, body {
     margin: 0;
     padding: 0;
     height: 100%;
+    width: 100%;
 }
 
 /* general rules */
@@ -18,6 +19,10 @@ body {
     margin: 0;
 }
 
+.row {
+    width: 100%;
+    margin: 0px;
+}
 .content-divider {
     width: 100px;
     border: 2px solid #555555;
@@ -28,6 +33,7 @@ body {
     border: 2px solid #fff;
 }
 
+
 /* background colours */
 
 .nav-menu {
@@ -35,7 +41,7 @@ body {
 }
 
 footer {
-      background-color: #C4C4C4;
+      background-color: #555;
       color: white;
   }
 /* ----- header/navbar ----- */
@@ -150,6 +156,16 @@ footer {
     position: absolute;
 }
 
+#stars-small {
+    width: 200px;
+    height: 40px;
+    
+    text-align: center;
+    margin:auto;
+    
+    position: relative;
+}
+
 #trustpilot-stars {
     height: 40px;
     width: 40px;
@@ -160,6 +176,7 @@ footer {
 /* services and features section */
 .services {
     margin:0;
+    max-width: 100vw;
     padding: 1.6rem 0;
     color: #555555;
 }
@@ -169,19 +186,20 @@ footer {
     font-weight: bold;
 }
     
-.service-content {
+.general-content {
     margin: 15px 0px;
+    font-family: "Noto Sans KR", sans-serif;
 }
 
-.service-content i {
+.general-content i {
     font-size: 3rem;
 }
-.service-content a {
+.general-content a {
     text-decoration: none;
     color: #76C61A;
 }
 
-.service-content a:hover {
+.general-content a:hover {
     color: #28a745;
 }
 
@@ -221,11 +239,15 @@ footer {
     color: #28a745;
 }
 
+/* footer rules and styling */
+footer {
+    padding: 20px;
+}
 footer h3 {
     font-weight: bold;
 }
 
-footer a {
+#footer a {
     text-decoration: none;
     color: white;
 }
@@ -233,17 +255,10 @@ footer a:hover {
     color: #28a745;
 }
 
-.socials {
-
-}
-
-
-
-
 /* buttons styling */
 
 .home-buttons {
-    width: 216px;
+    width: 150px;
     height: 40px;
     padding: 2px;
     vertical-align: middle;
@@ -254,4 +269,65 @@ footer a:hover {
     border-color: #28a745;
 }
 
+#nav-button {
+    margin: 0px;
+}
 
+
+@media screen and (max-width: 768px) {
+    #facilities {
+        padding: 50px 10px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    #overlay {
+        width: 100%;
+        height: 100%;
+    }
+
+    #hero {
+        padding: 80px 100px;
+    }
+
+    #facilities {
+        padding: 70px 60px;
+    }
+
+    .general-content {
+        padding: 10px 100px;
+    }
+
+    #footer.general-content {
+        padding: 0px 100px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #overlay {
+        width: 60%;
+        height: 60%;
+
+        padding: 20px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        margin: auto;
+    }
+    .cover-text {
+        width: 100%;
+        height: 100%;
+        padding: 20px 10px;
+        background-color: rgba(0,0,0,0.6);
+    }
+    .cover-text h1,h3,.home-buttons {
+        margin: 0.5rem;
+        padding: 15px, 0px;
+    }
+
+    #footer.general-content {
+        text-align: left;
+    }
+}
