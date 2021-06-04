@@ -376,11 +376,11 @@ footer a:hover {
     color: #28a745;
 }
 
-#socials {
+#socials i {
     color: #76C61A;
 }
 
-#socials a:hover {
+#socials i:hover {
     color: #28a745;
 }
 /* buttons styling */
