@@ -33,6 +33,10 @@ body {
     border: 2px solid #fff;
 }
 
+.content-divider-dull-grey {
+    width: 100px;
+    border: 2px solid #c4c4c4;
+}
 
 /* background colours */
 
@@ -42,7 +46,7 @@ body {
 
 footer {
       background-color: #555;
-      color: white;
+      color: #FFFFFF;
   }
 
 
@@ -358,6 +362,7 @@ footer {
 /* footer rules and styling */
 footer {
     padding: 20px;
+    color: #c4c4c4;
 }
 footer h3 {
     font-weight: bold;
@@ -365,12 +370,19 @@ footer h3 {
 
 #footer a {
     text-decoration: none;
-    color: white;
+    color: #c4c4c4;
 }
 footer a:hover {
     color: #28a745;
 }
 
+#socials {
+    color: #76C61A;
+}
+
+#socials a:hover {
+    color: #28a745;
+}
 /* buttons styling */
 
 .home-buttons {
