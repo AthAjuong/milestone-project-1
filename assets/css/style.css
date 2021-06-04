@@ -320,7 +320,7 @@ footer {
 
 .general-content ul {
     list-style-type: none;
-    
+    padding: 0;
 }
 
 .general-content ul>li {
