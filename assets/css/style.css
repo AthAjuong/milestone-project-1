@@ -486,9 +486,9 @@ footer a:hover {
         position: relative;
     }
     
-    .hero-about-panel {
+    #hero-about-panel {
         width:100%;
-        height: 850px;
+        height: inherit;
         padding: 0;
         position: relative;
     }
