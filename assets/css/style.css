@@ -337,6 +337,10 @@ footer {
     padding: 70px 30px;
 }
 
+.facilities h1 {
+    color: #b4b4b4;
+}
+
 .facilities a {
     text-decoration: none;
     color: #76C61A;
