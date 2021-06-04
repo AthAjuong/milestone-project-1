@@ -44,24 +44,21 @@ footer {
       background-color: #555;
       color: white;
   }
+
+
 /* ----- header/navbar ----- */
 
 .nav-menu {
     width: 100%;
-    color: #A4A7A9;
-    
+    color: #A4A7A9;  
   }
-  
-.navbar-nav {
-    
-}
 
   .navbar-toggler {
     border: 0;
   }
 
   .navbar-toggler-icon:hover {
-      border-color: #76C61A;
+      border-color: #28a745;
   }
 
   .navbar-light .navbar-nav .active > .nav-link {
