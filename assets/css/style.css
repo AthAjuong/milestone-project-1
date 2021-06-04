@@ -147,15 +147,9 @@ footer {
     padding: 20px;
 }
 
-#half-width-about-right>.cover-text{
-    background-color: none;
-    color: #555;
-}
-
 #about-hero-content {
     margin: 0px 0px;
     color: #555;
-    background-color: none;
 }
 #hero-classes-outer {
     width:100%;
@@ -312,7 +306,7 @@ footer {
 
 .general-content ul {
     list-style-type: none;
-    padding-inline-start: 0px;
+    
 }
 
 .general-content ul>li {
@@ -361,13 +355,13 @@ footer {
     background-size: cover;
     
 }
+
 #half-width-image-right {
     width: 100%;
     height: 600px;
     padding: 0;
     background: url("../images/stretches-min.png") no-repeat center center;
-    background-size: cover;
-    
+    background-size: cover;  
 }
 
 .facilities {
@@ -393,10 +387,12 @@ footer {
 }
 
 /* footer rules and styling */
+
 footer {
     padding: 20px;
     color: #c4c4c4;
 }
+
 footer h3 {
     font-weight: bold;
 }
@@ -405,6 +401,7 @@ footer h3 {
     text-decoration: none;
     color: #76c61a;
 }
+
 footer a:hover {
     color: #28a745;
 }
@@ -433,6 +430,7 @@ footer a:hover {
     background-color: #e5e5e5;
     color: #555;
 }
+
 .contact-form h2 {
     font-weight: bold;
 }
@@ -442,10 +440,9 @@ footer a:hover {
     text-align: left;
     margin: auto;
 }
+
 .contact-form label {
-    display: block;
-    
-    
+    display: block;    
 }
 
 /* media queries section */
@@ -476,7 +473,7 @@ footer a:hover {
         position: relative;
     }
     
-    .hero-about-panel {
+    #hero-about-panel {
         width:100%;
         height: 850px;
         padding: 0;
@@ -524,8 +521,6 @@ footer a:hover {
 }
 
 @media screen and (max-width: 992px) {
-
-
     
     #hero {
         width: 100%;
