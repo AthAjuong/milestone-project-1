@@ -370,19 +370,13 @@ footer h3 {
 
 #footer a {
     text-decoration: none;
-    color: #c4c4c4;
+    color: #76c61a;
 }
 footer a:hover {
     color: #28a745;
 }
 
-.fab {
-    color: #76C61A;
-}
 
-.fab:hover {
-    color: #28a745;
-}
 /* buttons styling */
 
 .home-buttons {
