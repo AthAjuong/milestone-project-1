@@ -134,6 +134,12 @@ footer {
     position: inherit;
 }
 
+#half-width-about-right {
+    width: 50%;
+    height: 850px;
+    padding: 20px;
+}
+
 #hero-classes-outer {
     width:100%;
     height: 850px;
