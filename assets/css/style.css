@@ -38,6 +38,10 @@ body {
     border: 2px solid #c4c4c4;
 }
 
+.push-down {
+    padding: 50px 10px;
+}
+
 /* background colours */
 
 .nav-menu {
