@@ -68,6 +68,9 @@ footer {
     margin: 0px 0px 0px 0px;
   }
 
+  #menu-hover :hover {
+      color: #76C61A;
+  }
 
 .logo-style {
     font-family: "Noto Sans KR", sans-serif;
@@ -88,13 +91,14 @@ footer {
 }
 
 
-/*- Hero image section -*/
+/*- Hero and images section -*/
 
 #hero-outer {
     width:100%;
-    height: 500px;
+   height: 500px;
     position: relative;
 }
+
 
 #hero-image {
     width: 100%;
@@ -104,7 +108,43 @@ footer {
     position: inherit;
 }
 
+#hero-about-outer {
+    width:100%;
+    height: 850px;
+    position: relative;
+}
 
+#hero-about {
+    width: 100%;
+    height: 100%;
+    background: url("/assets/images/about-hero.jpg") no-repeat center center;
+    background-size: cover;
+    position: inherit;
+}
+
+.staff {
+    padding: 20px 10px;
+}
+.staff-pics {
+    width: 150px;
+    height: 225px;
+    margin: 0px auto 16px;
+}
+
+#austin {
+    background: url("../images/staff/staff-austin.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#joseph {
+    background: url("../images/staff/staff-joseph.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+#nessa {
+    background: url("../images/staff/staff-nessa.jpg") no-repeat center center;
+    background-size: cover;
+}
 #overlay {
     width: 100%;
     height: 100%;
@@ -213,20 +253,23 @@ footer {
 #half-width-image-left {
     width: 100%;
     height: 500px;
+    padding: 0;
+    
     background: url("/assets/images/gym-machines.jpg") no-repeat center center;
     background-size: cover;
-    position: inherit;
+    
 }
 #half-width-image-right {
     width: 100%;
     height: 500px;
+    padding: 0;
     background: url("/assets/images/stretches-min.png") no-repeat center center;
     background-size: cover;
-    position: inherit;
+    
 }
 
 #facilities {
-    padding: 10px;
+    padding: 70px 30px;
 }
 
 #facilities a {
@@ -237,6 +280,10 @@ footer {
 #facilities a:hover {
     text-decoration: none;
     color: #28a745;
+}
+
+#facilities h4 {
+    font-size: 1.3rem;
 }
 
 /* footer rules and styling */
@@ -275,59 +322,57 @@ footer a:hover {
 
 
 @media screen and (max-width: 768px) {
+    #hero {
+        width: 100%;
+        height: 100%;
+
+    }
     #facilities {
         padding: 50px 10px;
+    }
+    #footer.general-content {
+        padding: 0px 20px;
     }
 }
 
 @media screen and (max-width: 992px) {
-    #overlay {
+
+
+    
+    #hero {
         width: 100%;
         height: 100%;
+        padding: 100px 80px;
     }
 
-    #hero {
-        padding: 80px 100px;
+    #hero-about-outer {
+        width:100%;
+        height: 850px;
+        position: relative;
     }
 
     #facilities {
+        width: 100%;
+        height: 100%;
         padding: 70px 60px;
     }
 
-    .general-content {
-        padding: 10px 100px;
+    
+
+    #footer > .general-content {
+        padding: 0px 10px;
     }
 
-    #footer.general-content {
-        padding: 0px 100px;
-    }
+  
 }
 
+
+    
+}
 @media screen and (max-width: 1200px) {
-    #overlay {
-        width: 60%;
-        height: 60%;
-
-        padding: 20px;
-        position: absolute;
-        left: 0;
-        top: 0;
-        bottom: 0;
-        right: 0;
-        margin: auto;
+    
+    #facilities-outer {
+        width: 50%;
     }
-    .cover-text {
-        width: 100%;
-        height: 100%;
-        padding: 20px 10px;
-        background-color: rgba(0,0,0,0.6);
-    }
-    .cover-text h1,h3,.home-buttons {
-        margin: 0.5rem;
-        padding: 15px, 0px;
-    }
-
-    #footer.general-content {
-        text-align: left;
-    }
+    
 }
