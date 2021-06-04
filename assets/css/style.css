@@ -147,7 +147,7 @@ footer {
     padding: 120px 20px;
 }
 
-#half-width-about-right h3{
+#half-width-about-right h2 {
     font-weight: bold;
 }
 
@@ -201,6 +201,7 @@ footer {
 
 .staff {
     padding: 20px 10px;
+    
 }
 
 .staff-pics {
