@@ -140,6 +140,9 @@ footer {
     padding: 20px;
 }
 
+#about-hero-content {
+    margin: 16px 0px;
+}
 #hero-classes-outer {
     width:100%;
     height: 850px;
@@ -444,6 +447,10 @@ footer a:hover {
         width:50%;
         height: 850px;
         position: relative;
+    }
+
+    .col-md-6 {
+        flex: 0 0 100%;
     }
 
     #facilities {
