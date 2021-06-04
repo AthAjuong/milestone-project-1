@@ -12,7 +12,9 @@ html, body {
 body {
     font-family: "Noto Sans KR", sans-serif;
     background-color: #e5e5e5;
+    color: #555;
 }
+
 
 .container-fluid {
     padding: 0;
@@ -186,6 +188,10 @@ footer {
     height: 600px;
     padding: 120px 20px;
     color: #555;
+}
+
+#gym-half-width h2 {
+    font-weight: bold;
 }
 
 #gym-hero {
