@@ -117,11 +117,24 @@ footer {
 #hero-about {
     width: 100%;
     height: 100%;
-    background: url("/assets/images/about-hero.jpg") no-repeat center center;
+    background: url("../images/about-hero.jpg") no-repeat center center;
     background-size: cover;
     position: inherit;
 }
 
+#hero-classes-outer {
+    width:100%;
+    height: 850px;
+    position: relative;
+}
+
+#hero-classes {
+    width: 100%;
+    height: 100%;
+    background: url("../images/gym-class-hero.jpg") no-repeat center center;
+    background-size: cover;
+    position: inherit;
+}
 .staff {
     padding: 20px 10px;
 }
@@ -231,9 +244,18 @@ footer {
     font-family: "Noto Sans KR", sans-serif;
 }
 
+.general-content ul {
+    list-style-type: none;
+}
+
+.general-content ul>li {
+    margin-bottom: 16px;
+}
+
 .general-content i {
     font-size: 3rem;
 }
+
 .general-content a {
     text-decoration: none;
     color: #76C61A;
