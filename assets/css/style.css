@@ -333,21 +333,21 @@ footer {
     
 }
 
-#facilities {
+.facilities {
     padding: 70px 30px;
 }
 
-#facilities a {
+.facilities a {
     text-decoration: none;
     color: #76C61A;
 }
 
-#facilities a:hover {
+.facilities a:hover {
     text-decoration: none;
     color: #28a745;
 }
 
-#facilities h4 {
+.facilities h4 {
     font-size: 1.3rem;
 }
 
