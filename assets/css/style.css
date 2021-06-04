@@ -319,9 +319,18 @@ footer {
     position: relative;
 }
 
+.half-width-image {
+    width: 100%;
+    height: 600px;
+    padding: 0;
+    
+    background: url("../images/gym-treadmill.jpg") no-repeat center center;
+    background-size: cover;
+}
+
 #half-width-image-left {
     width: 100%;
-    height: 500px;
+    height: 600px;
     padding: 0;
     
     background: url("../images/gym-machines.jpg") no-repeat center center;
@@ -330,7 +339,7 @@ footer {
 }
 #half-width-image-right {
     width: 100%;
-    height: 500px;
+    height: 600px;
     padding: 0;
     background: url("../images/stretches-min.png") no-repeat center center;
     background-size: cover;
