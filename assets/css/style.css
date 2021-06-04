@@ -49,8 +49,12 @@ footer {
 .nav-menu {
     width: 100%;
     color: #A4A7A9;
+    
   }
   
+.navbar-nav {
+    
+}
 
   .navbar-toggler {
     border: 0;
@@ -132,6 +136,34 @@ footer {
     width: 100%;
     height: 100%;
     background: url("../images/gym-class-hero.jpg") no-repeat center center;
+    background-size: cover;
+    position: inherit;
+}
+
+#hero-gym-outer {
+    width:100%;
+    height: 500px;
+    position: relative;
+}
+
+#gym-hero {
+    width: 100%;
+    height: 100%;
+    background: url("../images/gym-hero.jpg") no-repeat center center;
+    background-size: cover;
+    position: inherit;
+}
+
+#contact-hero-outer {
+    width:100%;
+    height: 500px;
+    position: relative;
+}
+
+#contact-hero {
+    width: 100%;
+    height: 100%;
+    background: url("../images/contact-hero.jpg") no-repeat center center;
     background-size: cover;
     position: inherit;
 }
@@ -330,6 +362,7 @@ footer a:hover {
     width: 150px;
     height: 40px;
     padding: 2px;
+    text-transform: uppercase;
     vertical-align: middle;
     border-radius: 25px;
     font-weight: bold;
@@ -342,6 +375,26 @@ footer a:hover {
     margin: 0px;
 }
 
+.contact-form {
+    background-color: #e5e5e5;
+    color: #555;
+}
+.contact-form h2 {
+    font-weight: bold;
+}
+
+.form-inputs {
+    max-width: 200px;
+    text-align: left;
+    margin: auto;
+}
+.contact-form label {
+    display: block;
+    
+    
+}
+
+/* media queries section */
 
 @media screen and (max-width: 768px) {
     #hero {

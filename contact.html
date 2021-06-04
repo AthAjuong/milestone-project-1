@@ -34,16 +34,16 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto text-center" id="menu-hover">
                     <li class="nav-item mr-2">
-                        <a class="nav-link menu-item" href="about.html">About Us</a>
-                    </li>
-                    <li class="nav-item mr-2 active">
-                        <a class="nav-link menu-item" href="classes.html">Classes</a>
+                        <a class="nav-link menu-item" href="about.html">About Us<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item mr-2">
+                        <a class="nav-link menu-item" href="about.html">Classes</a>
+                    </li>
+                    <li class="nav-item mr-2 ">
                         <a class="nav-link menu-item" href="gym.html">Gym</a>
                     </li>
-                    <li class="nav-item mr-2">
-                        <a class="nav-link menu-item" href="#">Contact Us</a>
+                    <li class="nav-item mr-2 active">
+                        <a class="nav-link menu-item" href="contact.html">Contact Us</a>
                     </li>
                     <li>
                       <a href="contact.html">
@@ -58,67 +58,44 @@
         </nav>
         
       <!-- ===== Main section of the page ====== -->
-      <section class="container-fluid" id="hero-classes-outer">
+        <section class="container-fluid" id="contact-hero-outer">
       
-        <div id="hero-classes">  
-        </div>
-      </section>
+          <div id="contact-hero">
+            
+          </div>
+    
+
+        </section>
 
         <!--Main content section of the page-->
-        <section class="services container-fluid">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <h3>Types of Classes</h3>
-                    <hr class="content-divider">
-                    <div class="row"> 
-                            <div class="col-12 col-xl-4 general-content">
-                                <i class="fas fa-users"></i>
-                                
-                                <h5>Classes we offer include:</h5>
-                                <p>
-                                    <ul>
+        <section class="container-fluid">
+            <div class="container">
 
-                                        <li>Yoga - great exercise for your body and mind</li>
-                                        <li>Pilates - perfect for a full body workout</li>
-                                        <li>Circuits - great for body conditioning and resistance training</li>
-                                        <li>Aerobics - a great all-round class at any stage of your fitness journey</li>
-                                        <li>Kettlebells - an overall workout that will push you to the limit</li>
-                                        <li>HIIT - High Intensity Interval Training</li>
-                            
-                                    </ul>
-                                   
-                                </p>
-                                <p>TightCore Gym staff are friendly and eager to help you along your fitness journey. They are knowledgeable and can tailor programs to each individual.</p>
-                        
-                            </div>
-                            
-                            <div class="row">
-                                <div class="col-12 text-center">
-                                    <h3>Experience TightCore Gym</h3>
-                                    <hr class="content-divider">
-
-                                    <div class="col-12 col-xl-4 general-content">
-                                        <p>Why not experience what it is like to take part in classes at TightCore.
-                                            Here is a video that will give you a sample of the 
-                                            TightCore experience.
-                                        </p>
-                                        
-                                        <!-- copyright free gym video sampled from YouTube Channel: Aairah-->
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/vi1-4fcX_ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    </div>
-
-                
-                                </div>
-                            </div>
+                    
+                <form class="text-center contact-form" method="POST" action="thankyou.html">
+                    <h2>Get In Touch!</h2>
+                    <p>Start your fitness journey today. We’ll be with you every step of the way!</p>
+                   <div class="form-inputs"> 
+                        <div>
+                            <label for="fname">First Name:</label>
+                            <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
                         </div>
-                        
+                        <div>
+                            <label for="lname">Last Name:</label>
+                            <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
+                        </div>
+                        <div>
+                            <label for="email">Email:</label>
+                            <input type="email" id="email" name="email" placeholder="Your email address.." required>
+                        </div>
                     </div>
-                </div>
-                </div>  
-            </div>
+                    <a href="thank-you.html">
+                        <input class="btn btn-success home-buttons" type="submit" value="Get In Touch!">
+                    </a>
+                </form>
+              </div>
       </section>
 
-    
 
     <!-- footer content -->
     <footer id="footer">
@@ -130,13 +107,16 @@
               <hr class="content-divider-white">
                 <div class="row"> 
                   <div class="col-12 general-content">
-                        <h5>Address:</h5>
-                        <p>Groody Park</br>
-                            Rhebogue Meadows</br>
-                            Co. Limerick</br>
-                            <a href="index.html">Back to top</a>
+                      <h5>Address:</h5>
+                      <p>Groody Park</br>
+                        Rhebogue Meadows</br>
+                        Co. Limerick
+                      </p>
+                      <div class="col-12 general-content">
+                        <p>
+                          <a href="index.html">Back to top</a>
                         </p>
-                      
+                    </div>
                   </div>
                   
                 </div>
