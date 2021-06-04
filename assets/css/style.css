@@ -528,18 +528,12 @@ footer a:hover {
         padding: 70px 60px;
     }
 
-    
-
     #footer > .general-content {
         padding: 0px 10px;
     }
-
   
 }
 
-
-    
-}
 @media screen and (max-width: 1200px) {
     
     #facilities-outer {
