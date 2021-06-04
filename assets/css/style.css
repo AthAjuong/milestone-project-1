@@ -110,7 +110,7 @@ footer {
 #hero-image {
     width: 100%;
     height: 100%;
-    background: url("../img/home-hero.jpg") no-repeat center center;
+    background: url("../images/home-hero.jpg") no-repeat center center;
     background-size: cover;
     position: inherit;
 }
@@ -124,7 +124,7 @@ footer {
 #hero-about {
     width: 100%;
     height: 100%;
-    background: url("../img/about-hero.jpg") no-repeat center center;
+    background: url("../images/about-hero.jpg") no-repeat center center;
     background-size: cover;
     position: inherit;
 }
@@ -138,7 +138,7 @@ footer {
 #hero-classes {
     width: 100%;
     height: 100%;
-    background: url("../img/gym-class-hero.jpg") no-repeat center center;
+    background: url("../images/gym-class-hero.jpg") no-repeat center center;
     background-size: cover;
     position: inherit;
 }
@@ -152,7 +152,7 @@ footer {
 #gym-hero {
     width: 100%;
     height: 100%;
-    background: url("../img/gym-hero.jpg") no-repeat center center;
+    background: url("../imamges/gym-hero.jpg") no-repeat center center;
     background-size: cover;
     position: inherit;
 }
@@ -166,7 +166,7 @@ footer {
 #contact-hero {
     width: 100%;
     height: 100%;
-    background: url("../img/contact-hero.jpg") no-repeat center center;
+    background: url("../images/contact-hero.jpg") no-repeat center center;
     background-size: cover;
     position: inherit;
 }
@@ -180,17 +180,17 @@ footer {
 }
 
 #austin {
-    background: url("../img/staff/staff-austin.jpg") no-repeat center center;
+    background: url("../images/staff/staff-austin.jpg") no-repeat center center;
     background-size: cover;
 }
 
 #joseph {
-    background: url("../img/staff/staff-joseph.jpg") no-repeat center center;
+    background: url("../images/staff/staff-joseph.jpg") no-repeat center center;
     background-size: cover;
 }
 
 #nessa {
-    background: url("../img/staff/staff-nessa.jpg") no-repeat center center;
+    background: url("../images/staff/staff-nessa.jpg") no-repeat center center;
     background-size: cover;
 }
 #overlay {
@@ -258,7 +258,7 @@ footer {
     height: 40px;
     width: 40px;
     display: inline-block;
-    background-image: url(../img/trustpilot.png);    
+    background-image: url(../images/trustpilot.png);    
 }
 
 /* services and features section */
@@ -317,7 +317,7 @@ footer {
     height: 500px;
     padding: 0;
     
-    background: url("../img/gym-machines.jpg") no-repeat center center;
+    background: url("../images/gym-machines.jpg") no-repeat center center;
     background-size: cover;
     
 }
@@ -325,7 +325,7 @@ footer {
     width: 100%;
     height: 500px;
     padding: 0;
-    background: url("../img/stretches-min.png") no-repeat center center;
+    background: url("../images/stretches-min.png") no-repeat center center;
     background-size: cover;
     
 }
@@ -379,7 +379,7 @@ footer a:hover {
     border-color: #28a745;
 }
 
-#nav-button {
+.nav-button {
     margin: 0px;
 }
 
