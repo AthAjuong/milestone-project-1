@@ -233,3 +233,10 @@ Any media used in the project will be referenced here.
 #### Video:
 
 * ![Gym Video-Airah](https://www.youtube.com/embed/vi1-4fcX_ig)
+
+## Acknowledgements
+
+I would like to take a moment to thank my mentor Seun Owonikoko for her insights as a developer.
+I would also like to thank Code Institute's Student Care team for the advice given over the months.
+I would like to thank my fellow students on Slack for the overflowing enthusiasm and quick solutions to coding's challenges.
+Lastly, I would like to thank my family for the support they offer me on this new path.
