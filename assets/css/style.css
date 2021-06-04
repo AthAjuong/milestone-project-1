@@ -281,6 +281,7 @@ footer {
 
 .general-content ul {
     list-style-type: none;
+    padding-inline-start: 0px;
 }
 
 .general-content ul>li {
