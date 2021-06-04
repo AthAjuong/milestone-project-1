@@ -171,7 +171,7 @@ footer {
 
 #hero-gym-outer {
     width:100%;
-    height: 500px;
+    height: 600px;
     position: relative;
 }
 
@@ -366,6 +366,16 @@ footer {
     padding: 0;
     
     background: url("../images/gym-machines.jpg") no-repeat center center;
+    background-size: cover;
+    
+}
+
+#gym-image-left {
+    width: 100%;
+    height: 600px;
+    padding: 0;
+    
+    background: url("../images/gym-hero.jpg") no-repeat center center;
     background-size: cover;
     
 }
