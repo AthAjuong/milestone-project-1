@@ -21,10 +21,15 @@ body {
     margin: 0;
 }
 
+.margin-top-section {
+    margin-top: 75px;
+}
+
 .row {
     width: 100%;
     margin: 0px;
 }
+
 .content-divider {
     width: 100px;
     border: 2px solid #555555;
