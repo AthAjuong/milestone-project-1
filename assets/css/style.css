@@ -431,8 +431,17 @@ footer {
 /* contact form for join/contact page */
 
 .contact-form {
-    width: 50%;
-    margin: auto;
+    width: 100%;
+    background-color: #e5e5e5;
+    color: #555;
+}
+
+.contact-form h2 {
+    font-weight: bold;
+}
+
+.contact-form label {
+    display: block;    
 }
 
 /* footer rules and styling */
@@ -475,14 +484,7 @@ footer a:hover {
     margin: 0px;
 }
 
-.contact-form {
-    background-color: #e5e5e5;
-    color: #555;
-}
 
-.contact-form h2 {
-    font-weight: bold;
-}
 
 .form-inputs {
     max-width: 200px;
@@ -490,9 +492,7 @@ footer a:hover {
     margin: auto;
 }
 
-.contact-form label {
-    display: block;    
-}
+
 
 /* media queries section */
 
