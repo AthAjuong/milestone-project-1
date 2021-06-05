@@ -199,9 +199,22 @@ These features currently go beyond the scope of the first project but can be toy
 * ![W3C Schools} (https://w3schools.com) - This website is very informative. The developer would often consult W3Schools and constantly revisit various tags of code.
 
 ## Testing
-
+The developer tested the website across different browsers and according to the functions they were intended to achieve.
 
 ### Validating the HTML and CSS
+
+#### HTML Validation:
+The developer used ![W3C's HTML Validator](https://validator.w3.org/) to check his pages for any validation errors. The ![TightCore Gym](https://athajuong.github.io/milestone-project-1/index.html) website passed the HTML validation with no errors.
+
+#### CSS Validation:
+The developer used ![W3's Jigsaw CSS validator](https://jigsaw.w3.org/css-validator/validator) to check his css for any validation errors and the website passed with no errors.
+
+#### Lighthouse Validation:
+
+![Lighthouse Validation](assets/readme-files/lighthouse.png)
+
+##### Desktop
+
 
 ### Testing Browsers
 
