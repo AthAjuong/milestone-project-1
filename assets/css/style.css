@@ -21,10 +21,6 @@ body {
     margin: 0;
 }
 
-.margin-top-section {
-    margin-top: 75px;
-}
-
 .row {
     width: 100%;
     margin: 0px;
@@ -435,7 +431,8 @@ footer {
 /* contact form for join/contact page */
 
 .contact-form {
-    width: 100;
+    width: 50%;
+    margin: auto;
 }
 
 /* footer rules and styling */
