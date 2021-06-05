@@ -177,13 +177,13 @@ footer {
     position: relative;
 }
 
-#hero-gym-panel {
+.hero-gym-panel {
     width: 100%;
     height: 600px;
     padding: 0;
 }
 
-#gym-half-width {
+.gym-half-width {
     width: 50%;
     height: 600px;
     padding: 120px 20px;
