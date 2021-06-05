@@ -433,6 +433,11 @@ footer {
     width: 80%;
     height: 500px;
 }
+
+.video-content iframe {
+    width: 100%;
+    height: 100%;
+}
 /* contact form for join/contact page */
 
 .contact-form {
