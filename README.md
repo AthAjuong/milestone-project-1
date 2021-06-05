@@ -204,14 +204,14 @@ The developer tested the website across different browsers and according to the 
 ### Validating the HTML and CSS:
 
 #### HTML Validation
-The developer used ![W3C's HTML Validator](https://validator.w3.org/) to check his pages for any validation errors. The ![TightCore Gym](https://athajuong.github.io/milestone-project-1/index.html) website passed the HTML validation with no errors.
+The developer used [W3C's HTML Validator](https://validator.w3.org/) to check his pages for any validation errors. The ![TightCore Gym](https://athajuong.github.io/milestone-project-1/index.html) website passed the HTML validation with no errors.
 
 #### CSS Validation
-The developer used ![W3's Jigsaw CSS validator](https://jigsaw.w3.org/css-validator/validator) to check his css for any validation errors and the website passed with no errors.
+The developer used [W3's Jigsaw CSS validator](https://jigsaw.w3.org/css-validator/validator) to check his css for any validation errors and the website passed with no errors.
 
 #### Lighthouse Validation
 
-![Lighthouse Validation](assets/readme-files/lighthouse.png)
+[Lighthouse Validation](assets/readme-files/lighthouse.png)
 
 ##### Content Requirements
 The developer believes this website can fulfill its intended content requirements.
@@ -291,25 +291,25 @@ This website is a fictional website written for the purposes of completing Code 
 Any media used in the project will be referenced here.
 
 #### Images:
-* ![Hero image](https://unsplash.com/photos/CQfNt66ttZM)
-* ![Home stretches](https://unsplash.com/photos/gJtDg6WfMlQ)
-* ![Home gym machines](https://unsplash.com/photos/0sa8D74iodI)
+* [Hero image](https://unsplash.com/photos/CQfNt66ttZM)
+* [Home stretches](https://unsplash.com/photos/gJtDg6WfMlQ)
+* [Home gym machines](https://unsplash.com/photos/0sa8D74iodI)
 
-* ![About hero](https://unsplash.com/photos/wXBK9JrM0iU)
-* ![Austin portrait](https://unsplash.com/photos/X6Uj51n5CE8)
-* ![Joseph portrait](https://unsplash.com/photos/iFgRcqHznqg)
-* ![Nessa portrait](https://unsplash.com/photos/mEZ3PoFGs_k)
+* [About hero](https://unsplash.com/photos/wXBK9JrM0iU)
+* [Austin portrait](https://unsplash.com/photos/X6Uj51n5CE8)
+* [Joseph portrait](https://unsplash.com/photos/iFgRcqHznqg)
+* [Nessa portrait](https://unsplash.com/photos/mEZ3PoFGs_k)
 
-* ![Classes hero](https://unsplash.com/photos/y0SMHt74yqc)
+* [Classes hero](https://unsplash.com/photos/y0SMHt74yqc)
 
-* ![Gym hero](https://unsplash.com/photos/yiQCexXTXJI)
-* ![Treadmill runner](https://www.freepik.com/free-photo/fitness-girl-running-treadmill_6522032.htm#page=1&query=treadmill&position=1)
+* [Gym hero](https://unsplash.com/photos/yiQCexXTXJI)
+* [Treadmill runner](https://www.freepik.com/free-photo/fitness-girl-running-treadmill_6522032.htm#page=1&query=treadmill&position=1)
 
-* ![Contact hero image](https://unsplash.com/photos/7kEpUPB8vNk)
+* [Contact hero image](https://unsplash.com/photos/7kEpUPB8vNk)
 
 #### Video:
 
-* ![Gym Video-Airah](https://www.youtube.com/embed/vi1-4fcX_ig)
+* [Gym Video-Airah](https://www.youtube.com/embed/vi1-4fcX_ig)
 
 ## Acknowledgements
 
