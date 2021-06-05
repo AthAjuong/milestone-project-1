@@ -54,10 +54,12 @@ footer {
 
 /* ----- header/navbar ----- */
 
+
 .nav-menu {
     width: 100%;
     color: #A4A7A9;
-      
+    position: fixed;
+    z-index: 1;
   }
 
   .navbar-nav {
