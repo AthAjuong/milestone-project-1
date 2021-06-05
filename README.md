@@ -184,19 +184,19 @@ These features currently go beyond the scope of the first project but can be toy
 ## Technologies Used
 * HTML5 - The language used to create the skeleton of the website. Forms, buttons, sections, divisions, etc.
 * CSS3 - The language used to style the HTML5 pages and elements. 
-* ![Bootsrap] (https://getbootstrap.com/) - The developer used the bootstrap framework to structure the website's layouts more easily. This was beneficial when developing for mobile and mobile devices first.
+* [Bootsrap] (https://getbootstrap.com/) - The developer used the bootstrap framework to structure the website's layouts more easily. This was beneficial when developing for mobile and mobile devices first.
 
-* ![Figma] (https://www.figma.com/file/tWD50wf2MlbyRV5sjfmvcS/Untitled?node-id=78%3A42) - Here is a link to my Figma workspace. This was used to draft and realise the ideas behind the design of the website. 
+* [Figma] (https://www.figma.com/file/tWD50wf2MlbyRV5sjfmvcS/Untitled?node-id=78%3A42) - Here is a link to my Figma workspace. This was used to draft and realise the ideas behind the design of the website. 
 
-* ![Unsplash](https://www.unsplash.com/) - I relied on Unsplash.com for images as they are royalty free and also high-quality. A perfect location to source images for a website.
+* [Unsplash](https://www.unsplash.com/) - I relied on Unsplash.com for images as they are royalty free and also high-quality. A perfect location to source images for a website.
 
-* ![TinyPNG](https://tinypng.com/) - The developer used this website to compress all of his images. This was intended to lower page load times and improve user experience.
+* [TinyPNG](https://tinypng.com/) - The developer used this website to compress all of his images. This was intended to lower page load times and improve user experience.
 
-* ![Google Fonts] (https://fonts.google.com/) - Is where the developer selected the "Noto Sans KR" font after perusing Googles font library for something suitable.
+* [Google Fonts] (https://fonts.google.com/) - Is where the developer selected the "Noto Sans KR" font after perusing Googles font library for something suitable.
 
-* ![Stack Overflow](https://www.stackoverflow.com) - The developer often browsed the website when code would go awry. There is a lot of guidance on Stack and it improves the understanding of different tag functions.
+* [Stack Overflow](https://www.stackoverflow.com) - The developer often browsed the website when code would go awry. There is a lot of guidance on Stack and it improves the understanding of different tag functions.
 
-* ![W3C Schools} (https://w3schools.com) - This website is very informative. The developer would often consult W3Schools and constantly revisit various tags of code.
+* [W3C Schools} (https://w3schools.com) - This website is very informative. The developer would often consult W3Schools and constantly revisit various tags of code.
 
 ## Testing
 The developer tested the website across different browsers and according to the functions they were intended to achieve.
