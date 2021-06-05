@@ -211,7 +211,7 @@ The developer used [W3's Jigsaw CSS validator](https://jigsaw.w3.org/css-validat
 
 #### Lighthouse Validation
 
-[Lighthouse Validation](assets/readme-files/lighthouse.png)
+![Lighthouse Validation](assets/readme-files/lighthouse.png)
 
 ##### Content Requirements
 The developer believes this website can fulfill its intended content requirements.
