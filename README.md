@@ -204,7 +204,7 @@ The developer tested the website across different browsers and according to the 
 ### Validating the HTML and CSS:
 
 #### HTML Validation
-The developer used [W3C's HTML Validator](https://validator.w3.org/) to check his pages for any validation errors. The ![TightCore Gym](https://athajuong.github.io/milestone-project-1/index.html) website passed the HTML validation with no errors.
+The developer used [W3C's HTML Validator](https://validator.w3.org/) to check his pages for any validation errors. The [TightCore Gym](https://athajuong.github.io/milestone-project-1/index.html) website passed the HTML validation with no errors.
 
 #### CSS Validation
 The developer used [W3's Jigsaw CSS validator](https://jigsaw.w3.org/css-validator/validator) to check his css for any validation errors and the website passed with no errors.
@@ -255,6 +255,8 @@ Initially the developer wanted to use a fixed navigation bar, he found that it l
 The developer wanted to use the contact form to gather data on customers but without a server or knowledge on servers, he could not. Instead, the contact form remains as an example of what it could achieve rather than a true solution.
 
 The devloper had challenges organising the layout for the gym page. Having panels with content side-by-side and removing them at certain screen sizes. The developer reused his own code from the home page's panels and filled in the blanks.
+
+
 
 ## Deployment
 This project was created in GitPod's development environment. 
