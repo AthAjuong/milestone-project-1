@@ -432,6 +432,7 @@ footer {
 .video-content {
     width: 80%;
     height: 500px;
+    margin: auto;
 }
 
 .video-content iframe {
