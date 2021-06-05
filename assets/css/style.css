@@ -445,6 +445,7 @@ footer {
 
 .form-inputs {
     width: 100%;
+    text-align: left;
 }
 
 .form-inputs input {
