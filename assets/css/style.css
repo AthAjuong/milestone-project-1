@@ -59,8 +59,7 @@ footer {
 .nav-menu {
     width: 100%;
     color: #A4A7A9;
-    position: fixed;
-    z-index: 1;
+    position: relative;
   }
 
   .navbar-nav {
@@ -428,6 +427,12 @@ footer {
     font-size: 1.3rem;
 }
 
+/* video content */
+
+.video-content {
+    width: 80%;
+    height: 500px;
+}
 /* contact form for join/contact page */
 
 .contact-form {
@@ -535,7 +540,8 @@ footer a:hover {
 
     #video {
         width: 80%;
-        height: 500px;
+        
+        margin: auto;
     }
 
     #facilities {
