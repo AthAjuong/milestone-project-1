@@ -256,7 +256,7 @@ The developer wanted to use the contact form to gather data on customers but wit
 
 The devloper had challenges organising the layout for the gym page. Having panels with content side-by-side and removing them at certain screen sizes. The developer reused his own code from the home page's panels and filled in the blanks.
 
-
+Some content was excessive and hindered the information hierarchy. Notably in the image panels down the index.html page. The developer changed the content's colors and text/heading numbers to give a more intuitive hierarchy.
 
 ## Deployment
 This project was created in GitPod's development environment. 
