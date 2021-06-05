@@ -451,6 +451,11 @@ footer {
     width: 100%;
 }
 
+.form-inputs input {
+    width: 100%;
+    padding: 0px 2px;
+}
+
 /* footer rules and styling */
 
 footer {
