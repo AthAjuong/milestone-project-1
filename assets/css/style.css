@@ -432,6 +432,12 @@ footer {
     font-size: 1.3rem;
 }
 
+/* contact form for join/contact page */
+
+.contact-form {
+    width: 100;
+}
+
 /* footer rules and styling */
 
 footer {
