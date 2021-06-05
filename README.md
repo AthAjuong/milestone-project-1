@@ -1,11 +1,14 @@
 # TightCore Gym
 ## Code Institute: Milestone Project 1
 
+![Example of website across devices](assets/readme-files/resonsive.png)
 
 TightCore Gym is a fictional gym that offers guidance to clients wanting to improve their health, fitness, or body composition. This project idea was offered by Code Institute as part of their softare development program. As a person with keen interests in sports, health, and lifestyle, I thought it would be interesting to create a project reflecting a business that helps people stay active and healthy. 
 
 This was the first of the milestone projects that make up Code Institute's Full-Stack Software Development Course as of Feb. 2021.
 This static website is required to be responsive and comprises of pages developed with HTML5 and CSS3.
+
+View the live project here: ![TightCore Gym](https://athajuong.github.io/milestone-project-1/index.html)
 
 ## UX
 
@@ -149,10 +152,14 @@ This project has five different pages. A user can navigate between each page by 
 * Hero image has an overlay to ensure the text and call-to-action are both visible for any user.
 * Designed "Trustpilot"-themed stars to give some social proof. Four stars placed under the button, to convince users that the gym is legitimate and trustworthy.
 * The home page also offers reasons as to why the user should either become a member or sample TightCore's services.
+* Users can get in touch with the gym directly from the landing page using the button in the hero image.
+* Users can navigate to appropriate content about classes, gym trainers and the gym facilities using links in the content section.
+* Two panels provide sample images of people training and tell the customers about the facilities and classes on offer. They can follow links to learn more.
+* Customers can show their intent to sign up for membership by following a button that leads them to contact the gym. They learn the benefits of membership here.
 
 #### About Us Page:
 * The about us page offers an insight into the motivation and values of the company.
-* The about us page then provides pictures of the staff members that work at the company.
+* The about us page then provides pictures and bios of the staff members that work at the company.
 
 #### Classes Page:
 * This page offers an idea of the types of classes the gym offers.
