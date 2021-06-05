@@ -1,7 +1,7 @@
 # TightCore Gym
 ## Code Institute: Milestone Project 1
 
-![Example of website across devices](https://github.com/AthAjuong/milestone-project-1/tree/main/assets/readme-files)
+![Example of website across devices](https://github.com/AthAjuong/milestone-project-1/tree/main/assets/readme-files/responsive.png)
 
 TightCore Gym is a fictional gym that offers guidance to clients wanting to improve their health, fitness, or body composition. This project idea was offered by Code Institute as part of their softare development program. As a person with keen interests in sports, health, and lifestyle, I thought it would be interesting to create a project reflecting a business that helps people stay active and healthy. 
 
