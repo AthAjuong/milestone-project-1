@@ -372,7 +372,7 @@ footer {
     position: relative;
 }
 
-#half-width-image {
+.half-width-image {
     width: 100%;
     height: 600px;
     padding: 0;
