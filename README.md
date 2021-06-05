@@ -201,30 +201,87 @@ These features currently go beyond the scope of the first project but can be toy
 ## Testing
 The developer tested the website across different browsers and according to the functions they were intended to achieve.
 
-### Validating the HTML and CSS
+### Validating the HTML and CSS:
 
-#### HTML Validation:
+#### HTML Validation
 The developer used ![W3C's HTML Validator](https://validator.w3.org/) to check his pages for any validation errors. The ![TightCore Gym](https://athajuong.github.io/milestone-project-1/index.html) website passed the HTML validation with no errors.
 
-#### CSS Validation:
+#### CSS Validation
 The developer used ![W3's Jigsaw CSS validator](https://jigsaw.w3.org/css-validator/validator) to check his css for any validation errors and the website passed with no errors.
 
-#### Lighthouse Validation:
+#### Lighthouse Validation
 
 ![Lighthouse Validation](assets/readme-files/lighthouse.png)
 
-##### Desktop
+##### Content Requirements
+The developer believes this website can fulfill its intended content requirements.
 
+The website does help customers find information on:
+* Information on gym facilities - equipment.
+* Services offered - exercise classes, instructors.
+* Contact and location details
+* Transparency: information about the gym and its staff
+* Social links
+
+##### Functionality Requirements
+
+The developer believes this website can fulfill its intended functionality requirements.
+
+The website enables customers to:
+* Navigate the website effortlessly
+* Browse the website on different platforms
+* Find information about the services offered
+* Contact the gym directly from the website
+* Be able to find external social proofs by visiting social media links
 
 ### Testing Browsers
+The developer manually tested the website across 3 separate browsers. Namely:
+
+* Google Chrome
+* Mozilla Firefox
+* Microsoft Edge
 
 ### Testing Responsive Design
+The developer manually tested the website's responsive design using Google's Developer Tools. The website is responsive across multiple devices. 
+
+It should be noted that the developer did not choose to make the website responsive for devices below a maximum width of 370px.
+
+* Google developer tools - allows you to check responsiveness across multiple devices.
+* Collected feedback from different friends and family members.
 
 ### Issues Discovered
+Initially the developer wanted to use a fixed navigation bar, he found that it left spaces behind and above it. Rather than using a fixed navigation bar, the developer opted for a navigation bar that remained in its position.
+
+The developer wanted to use the contact form to gather data on customers but without a server or knowledge on servers, he could not. Instead, the contact form remains as an example of what it could achieve rather than a true solution.
+
+The devloper had challenges organising the layout for the gym page. Having panels with content side-by-side and removing them at certain screen sizes. The developer reused his own code from the home page's panels and filled in the blanks.
 
 ## Deployment
+This project was created in GitPod's development environment. 
+
+To make this project viewable to the public, the developer followed these steps:
+
+1. Enter [Github Repository](https://github.com/AthAjuong/milestone-project-1)
+2. Go to settings tab
+3. Go to pages section
+4. Choose a master branch for the project, "main"
+
+This deployed the TightCore Gym website that is now viewable [here](https://athajuong.github.io/milestone-project-1/index.html).
 
 ### Cloning the Project
+
+If you would like to work on this project further you can clone it to your local machine using the following steps:
+
+1. Scroll to the top of my repository and click on the "clone or download button"
+2. Decide whether you want to clone the project using HTTPS or an SSH key and do the following:
+3. HTTPS: click on the checklist icon to the right of the URL
+4. SSH key: first click on 'Use SSH' then click on the same icon as above
+5. Open the 'Terminal'
+6. Change the current working directory to the location where you want the cloned directory
+7. Type 'git clone', and then paste the URL you copied earlier.
+8. Press 'Enter' to create your local clone.
+
+Feel free to read about [Cloning a Repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) if there is any confustion.
 
 ## Credits
 
